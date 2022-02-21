@@ -8,6 +8,8 @@
 🏡 &nbsp;Since 2020 I'm living in France.\
 📄 &nbsp;Please have a look at my [Profile](https://www.polywork.com/anettehaferkorn) for more details about me. I'm open to feedback and suggestions!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flooooooooooorian&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ### 🛠 &nbsp;Tech Stack
 
