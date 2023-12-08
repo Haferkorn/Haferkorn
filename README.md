@@ -4,9 +4,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I studied Computer Science and Management in Germany.\
-🏡 &nbsp;Since 2020 I'm living in France.\
-📄 &nbsp;Please have a look at my [Profile](https://www.polywork.com/anettehaferkorn) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;My educational background spans from Computer Science, agile Methodologies to servant Leadership.\
+🏡 &nbsp;Living somewhere between Berlin and Paris.\
+📄 &nbsp;Please have a look at my [Profile](https://www.linkedin.com/in/anette-haferkorn/) and feel free to reach out!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flooooooooooorian&theme=tokyonight)](https://git.io/streak-stats)
 
